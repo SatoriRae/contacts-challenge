@@ -121,7 +121,6 @@ function toggleAddContactForm() {
  */
 function generateId() {
   return Math.floor(Math.random() * 10000000) + "-" + Math.floor(Math.random() * 10000000)
-  console.log ("return")
 }
 
 
